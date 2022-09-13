@@ -1,4 +1,5 @@
 # 2048
+2048 is a single-player sliding tile puzzle video game. It is a simple game at first glance, but the amount of logic and planning that goes into creating it is quite advanced.
 
 ## How To Play
 Combine tiles of the same number in an attempt to create a tile with the value 2048.
