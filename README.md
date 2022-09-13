@@ -8,3 +8,5 @@ Pressing the arrow keys or swiping across the game board will move all tiles in 
 Two tiles with the same number will merge when they collide to create a single tile with double the value.
 
 The game is over when there are no valid ways for you to move the tiles.
+
+![My Image](2048Screenshot.png)
