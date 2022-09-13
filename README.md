@@ -1,4 +1,4 @@
-#2048
+# 2048
 
 ## How To Play
 Combine tiles of the same number in an attempt to create a tile with the value 2048.
